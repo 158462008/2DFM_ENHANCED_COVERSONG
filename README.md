@@ -9,3 +9,6 @@ Test: SHS100K -- youtube_2dfm_npy, fileter(Test)
       songs2000 -- songs2000_2dfm_npy, songs2000_list
 ## Approach
 Classifier network, Triplet network, LDA are utilized.
+
+## Environment
+Python3.6 Pytorch0.4
